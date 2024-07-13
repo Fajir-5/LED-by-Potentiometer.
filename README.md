@@ -1,4 +1,5 @@
 https://www.tinkercad.com/things/3OAxcIztOiU-led-by-potentiometer/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits%3Fsort%3Dnewest
+
 A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat. Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment.
 
 Components Needed:
